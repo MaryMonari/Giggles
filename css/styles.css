@@ -1,0 +1,21 @@
+body {
+  background-color: white;
+}
+.button {
+  color: black;
+  font-weight: bold;
+  background-color: white;
+  text-align: center;
+  border: 1px solid black;
+  padding: 2%;
+  margin: 2px auto;
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+body {
+  background-color: white;
+  color: black;
+}
